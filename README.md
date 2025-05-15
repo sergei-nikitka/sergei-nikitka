@@ -1,9 +1,7 @@
 <h1 align="center">Привет 👋, я Сергей</h1>
 <h3 align="center">FullStack разработчик из Беларуси</h3>
 
-- 🔭 Работаю в [BN Team](https://bn-team.by)
-
-- 👯 Сотрудничаю с **Vass Group**
+- 🔭 Работаю в [Софт Стрим](https://softstream.by) и [BN Team](https://bn-team.by)
 
 - 👨‍💻 Мои проекты доступны: [bn-team.by/p/01956/](bn-team.by/p/01956/)
 
@@ -11,7 +9,7 @@
 
 - 💬 Спрашивайте об **Python, C++, WEB**
 
-- 📫 Написать мне **s.nikitko@bn-team.by**
+- 📫 Написать мне **s.nikitko@softstream.by**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
